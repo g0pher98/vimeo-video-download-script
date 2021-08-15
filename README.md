@@ -1,6 +1,9 @@
 # vimeo-video-download-script
 Vimeo Player Video Download Script
 
+# Sites using vemo
+- swapcard
+
 # Usage
 You can run the script below from the `console` tab in the `developer tools(F12)` on a page that only Vimeo Player plays.
 
